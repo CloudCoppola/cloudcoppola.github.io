@@ -12,4 +12,4 @@ To be updated soon.
 
 ### Contact me
 
-[email@domain.com](mailto:clc20@aber.ac.uk)
+[clc20@aber.ac.uk](mailto:clc20@aber.ac.uk)
