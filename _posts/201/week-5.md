@@ -1,0 +1,16 @@
+---
+layout: post
+title: Week 5
+---
+
+26/02/2018
+
+Had a meeting with the group for a general discussion of tasks. I assigned the task of working on the technical documentation by providing a draft.
+
+I had to sort out the layout for all the minutes as Bens minutes are different to the previous. 
+
+Time Spent: 3 hours
+
+
+
+ 
